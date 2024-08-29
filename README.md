@@ -3,7 +3,7 @@
 
 Assignments  
 1. Creating a linked list and finding the middle element of the linked list.
-  Link - 
+  Link - Assignment_1
 2. Read csv files containing student marks and gender. Plot graphs of the gender-ratio and the pass-fail ratio.
   Link - 
 3. Read two matrices stored in separate csv files and multiply them. Also stored the multiplied result matrix in a separate output.csv file
