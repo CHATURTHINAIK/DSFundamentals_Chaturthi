@@ -14,6 +14,6 @@ Assignments
    Link - [Assignment_5](Assignment_5) 
 6. Create a SQL database with two tables - Product and Category Table. Add some data in the database and then covert it to MongoDB database.
     Link - [Assignment_6](Assignment_6)
-7. To create an empty matrix. Then put 1s where the sum of index is odd and put 0s where the sum of index is even.
+7. To create an empty matrix. Then put 1s where the sum of index is odd and put 0s where the sum of index is even. Then find the coordinates of the longest substring of 1s.
     Link - [Assignment_7](Assignment_7)
 8. 
