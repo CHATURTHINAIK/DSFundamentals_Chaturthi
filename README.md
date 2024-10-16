@@ -13,7 +13,10 @@ Assignments
 5. Read csv file for calories data. Calculate average calories, standard deviation, highest calories per day and highest calories per meal.
    Link - [Assignment_5](Assignment_5) 
 6. Create a SQL database with two tables - Product and Category Table. Add some data in the database and then covert it to MongoDB database.
-    Link - [Assignment_6](Assignment_6)
-7. To create an empty matrix. Then put 1s where the sum of index is odd and put 0s where the sum of index is even. Then find the coordinates of the longest substring of 1s.
-    Link - [Assignment_7](Assignment_7)
-8. 
+   Link - [Assignment_6](Assignment_6)
+7. Create an empty matrix. Then put 1s where the sum of index is odd and put 0s where the sum of index is even. Then find the coordinates of the longest substring of 1s.
+   Link - [Assignment_7](Assignment_7)
+8. Take visa rates and airport locations from data.json file and passenger tickets details from mongo db collections and display it.
+   Link - [Assignment_8](Assignment_8)
+9. Analyze a dataset of reviews to classify them based on sentiment (positive, neutral, negative) and generate summaries for each category.
+   Link - [Assignment_9](Assignment_9)
