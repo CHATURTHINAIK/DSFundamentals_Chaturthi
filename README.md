@@ -1,6 +1,5 @@
 # DSFundamentals_Chaturthi
 
-
 Assignments  
 1. Creating a linked list and finding the middle element of the linked list.
    Link - [Assignment_1](Assignment_1) 
@@ -14,7 +13,7 @@ Assignments
    Link - [Assignment_5](Assignment_5) 
 6. Create a SQL database with two tables - Product and Category Table. Add some data in the database and then covert it to MongoDB database.
    Link - [Assignment_6](Assignment_6)
-7. Create an empty matrix. Then put 1s where the sum of index is odd and put 0s where the sum of index is even. Then find the coordinates of the longest substring of 1s.
+7. Create an empty matrix. Then put 1s where the sum of index is odd and put 0s where the sum of index is even. Then find the longest substring of 1s and display it's coordinates.
    Link - [Assignment_7](Assignment_7)
 8. Take visa rates and airport locations from data.json file and passenger tickets details from mongo db collections and display it.
    Link - [Assignment_8](Assignment_8)
